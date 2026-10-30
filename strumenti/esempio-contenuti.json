@@ -1,0 +1,78 @@
+{
+ "contenuti": [
+  {
+   "id": "prova-carosello",
+   "tipo": "carosello",
+   "slide": [
+    {
+     "etichetta": "Il dato",
+     "titolo": "Il <em>59%</em> è corsa",
+     "testo": "Per questo il piano parte da lì."
+    },
+    {
+     "etichetta": "Le 8 stazioni",
+     "titolo": "Regola. <em>Alternativa.</em>",
+     "griglia": [
+      "SkiErg",
+      "Sled Push",
+      "Sled Pull",
+      "Burpee Broad Jump"
+     ],
+     "chiusura": "Anche senza slitta."
+    }
+   ],
+   "data": "2026-11-10",
+   "ora": "18:30",
+   "titolo": "Titolo per la pagina di approvazione",
+   "didascalia": "Didascalia Instagram...\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "prova-post",
+   "tipo": "post",
+   "stile": "chiaro",
+   "titolo_grafica": "Prova<br><em>27 €</em>",
+   "testo": "Testo di prova.",
+   "barra": "Inizia ora – 27 €",
+   "data": "2026-11-10",
+   "ora": "18:30",
+   "titolo": "Titolo per la pagina di approvazione",
+   "didascalia": "Didascalia Instagram...\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "prova-reel",
+   "tipo": "reel",
+   "musica": "epica",
+   "scene": [
+    {
+     "etichetta": "Prova",
+     "titolo": "Titolo<br><em>uno?</em>"
+    },
+    {
+     "etichetta": "Due",
+     "titolo": "Seconda<br><em>scena.</em>",
+     "rivela": {
+      "card": {
+       "etichetta": "SETTIMANA 1 DI 6",
+       "titolo": "Oggi: corsa",
+       "righe": "Riga 1\nRiga 2\nRiga 3"
+      }
+     }
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist<br><em>gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     }
+    }
+   ],
+   "data": "2026-11-10",
+   "ora": "18:30",
+   "titolo": "Titolo per la pagina di approvazione",
+   "didascalia": "Didascalia Instagram...\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ],
+ "_note": "Titoli: si può usare <em>parola</em> per l'arancio e <br> per andare a capo. Campi slide: etichetta, titolo, testo, grande, card{etichetta,titolo,righe}, lista[], griglia[], chiusura. Campi scena reel: etichetta, titolo, grande, rivela{testo, card, lista, campo, invito, prezzo}. Reel: musica = carica|energia|grinta|epica|ritmo, trasp facoltativo."
+}
