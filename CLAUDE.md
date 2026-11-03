@@ -9,6 +9,9 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
 
 ## Regole decise da Umberto (non cambiarle senza chiederglielo)
 
+### Lingua
+- Rispondi a Umberto SEMPRE e SOLO in italiano, in ogni messaggio (anche riepiloghi e messaggi finali).
+
 ### Brand
 - Colori: arancio #FF4419 (accento, una cosa alla volta), quasi nero #16181B, sabbia #ECE8E0, bianco.
 - Caratteri: Anton maiuscolo per i titoli, Inter per il testo.
