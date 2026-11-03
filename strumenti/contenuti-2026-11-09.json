@@ -1,0 +1,84 @@
+{
+ "contenuti": [
+  {
+   "id": "2026-11-09-carosello-5-errori",
+   "tipo": "carosello",
+   "data": "2026-11-09",
+   "ora": "18:30",
+   "titolo": "5 errori da evitare al primo HYROX",
+   "slide": [
+    {"etichetta": "Primo HYROX", "titolo": "5 errori da <em>evitare.</em>", "testo": "Leggili adesso, così il giorno gara non li fai tu.", "chiusura": "Salvalo per dopo."},
+    {"etichetta": "Errore 1", "titolo": "Partire <em>a tutta.</em>", "testo": "Il primo km sembra facile, poi le stazioni presentano il conto. Parti più piano di quanto vorresti: i km da correre sono 8."},
+    {"etichetta": "Errore 2", "titolo": "Allenarsi <em>a pezzi.</em>", "testo": "In gara corri sempre dopo una stazione. In allenamento mettile in fila: corsa, stazione, corsa."},
+    {"etichetta": "Errore 3", "titolo": "Ignorare le <em>regole.</em>", "testo": "Una ripetizione non valida va rifatta. Wall ball sotto il bersaglio, burpee senza petto a terra: impara gli standard prima."},
+    {"etichetta": "Errore 4", "titolo": "Provare cose <em>nuove.</em>", "testo": "Scarpe nuove, colazione diversa, gel mai provato: il giorno gara usa solo quello che hai già testato."},
+    {"etichetta": "Errore 5", "titolo": "Andare <em>senza piano.</em>", "testo": "Primo Traguardo ti dice cosa fare ogni giorno: 12 settimane o Express da 6, anche in una palestra normale.", "chiusura": "Guida + app · 27 €"}
+   ],
+   "didascalia": "Hai paura di sbagliare tutto al tuo primo HYROX? 😅\nQuesti 5 errori si evitano con un po' di preparazione: partire piano, allenarsi corsa + stazione, conoscere le regole, niente novità il giorno gara e un piano da seguire.\nSalvalo e ripassalo prima del via.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-10-reel-wall-ball",
+   "tipo": "reel",
+   "musica": "epica",
+   "trasp": 0,
+   "seed": 5,
+   "data": "2026-11-10",
+   "ora": "18:30",
+   "titolo": "E se non finisco i wall ball?",
+   "scene": [
+    {"etichetta": "La paura", "titolo": "E se non finisco i <em>wall ball?</em>", "rivela": {"testo": "La domanda di chi fa il primo HYROX."}},
+    {"etichetta": "Il fatto", "titolo": "Sono <em>100.</em>", "rivela": {"testo": "È l'ultima stazione: ci arrivi dopo 8 km di corsa e 7 stazioni. Normale averne paura."}},
+    {"etichetta": "Il trucco", "titolo": "Spezzali <em>subito.</em>", "rivela": {"lista": ["10 serie da 10", "Pause brevi, sempre uguali", "Fermati prima di non farcela"]}},
+    {"etichetta": "La tecnica", "titolo": "Usa le <em>gambe.</em>", "rivela": {"testo": "Scendi in squat e lancia con la spinta delle gambe. Valida solo se la palla tocca il bersaglio."}},
+    {"etichetta": "In palestra", "titolo": "Niente <em>palla?</em>", "rivela": {"card": {"etichetta": "ALTERNATIVA", "titolo": "Thruster", "righe": "Con manubrio o kettlebell\nStesso movimento: squat e spinta\nSerie corte, pause brevi"}}},
+    {"etichetta": "Gratis", "titolo": "La checklist del <em>giorno gara.</em>", "rivela": {"campo": "CHECKLIST", "invito": "Scrivi CHECKLIST nei commenti", "prezzo": "Primo Traguardo · 27 €"}}
+   ],
+   "didascalia": "E se arrivi ai wall ball e non ce la fai più? 😮‍💨\nSono 100 e arrivano alla fine, dopo 8 km di corsa. Il trucco: spezzarli subito in serie corte, usare le gambe e allenarli anche senza palla.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-11-post-esci-piano",
+   "tipo": "post",
+   "data": "2026-11-11",
+   "ora": "18:30",
+   "titolo": "Esci dalla stazione piano",
+   "etichetta": "Correre da stanchi",
+   "titolo_grafica": "x",
+   "slide": [
+    {"etichetta": "Correre da stanchi", "titolo": "Esci dalla stazione <em>piano.</em>", "testo": "Dopo una stazione le gambe sono pesanti. Corri i primi 200 metri più lentamente, respira, poi torna al tuo ritmo. Meglio qualche secondo perso che un km camminato.", "chiusura": "Salvalo."}
+   ],
+   "didascalia": "Esci dalla slitta e le gambe non rispondono? 🦵\nÈ normale: dopo una stazione serve qualche metro per ripartire. Corri i primi 200 metri più piano, respira e poi torna al tuo ritmo.\nSalvalo e provalo al prossimo allenamento corsa + stazione.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-13-reel-milano-3-settimane",
+   "tipo": "reel",
+   "musica": "ritmo",
+   "trasp": 0,
+   "seed": 7,
+   "data": "2026-11-13",
+   "ora": "18:30",
+   "titolo": "Primo HYROX a Milano? Le ultime 3 settimane",
+   "scene": [
+    {"etichetta": "Milano · 4-6 dicembre", "titolo": "Primo HYROX a <em>Milano?</em>", "rivela": {"testo": "Mancano 3 settimane. Ecco cosa fare adesso."}},
+    {"etichetta": "Prima regola", "titolo": "Niente <em>extra.</em>", "rivela": {"testo": "Adesso conta arrivare freschi, non recuperare il tempo perso. Fare di più ora porta solo stanchezza."}},
+    {"etichetta": "Settimana 1", "titolo": "Prova la <em>gara.</em>", "rivela": {"testo": "Una simulazione ridotta: corsa e stazioni in fila, a ritmo gara, senza strafare."}},
+    {"etichetta": "Settimana 2", "titolo": "Trova il tuo <em>ritmo.</em>", "rivela": {"testo": "Corri i km al ritmo che pensi di tenere in gara. Dopo ogni stazione riparti piano."}},
+    {"etichetta": "Settimana 3", "titolo": "Scarica e <em>riposa.</em>", "rivela": {"testo": "Meno volume, qualche allungo, tanto sonno. La borsa preparala due giorni prima."}},
+    {"etichetta": "Gratis", "titolo": "La checklist del <em>giorno gara.</em>", "rivela": {"campo": "CHECKLIST", "invito": "Scrivi CHECKLIST nei commenti", "prezzo": "Primo Traguardo · 27 €"}}
+   ],
+   "didascalia": "Il tuo primo HYROX è a Milano e mancano 3 settimane? ⏳\nNon serve recuperare il tempo perso: prova la gara, trova il tuo ritmo e nell'ultima settimana scarica e dormi.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-15-post-inizia-qui",
+   "tipo": "post",
+   "stile": "chiaro",
+   "data": "2026-11-15",
+   "ora": "10:00",
+   "titolo": "Il tuo primo HYROX inizia qui (27 €)",
+   "titolo_grafica": "Il tuo primo<br><em>HYROX</em><br>inizia qui",
+   "testo": "Piano di 12 settimane o Express da 6, le 8 stazioni con le alternative, ritmo gara e checklist.",
+   "bollo": {"sopra": "GUIDA + APP", "grande": "27 €", "sotto": "IN ITALIANO"},
+   "barra": "Inizia ora – 27 €",
+   "didascalia": "Ti sei iscritto al tuo primo HYROX e non sai da dove partire? 🏁\nPrimo Traguardo ti dice cosa fare ogni giorno: piano di 12 settimane o Express da 6, le 8 stazioni con le alternative senza attrezzi speciali, ritmo gara e checklist.\nNon serve essere atleti.\n\nGuida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ]
+}
