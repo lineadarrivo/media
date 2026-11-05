@@ -7,7 +7,9 @@ const f64 = (p) => 'data:font/woff2;base64,' + fs.readFileSync(nm(p)).toString('
 const FONTS = `@font-face{font-family:Anton;src:url(${f64('@fontsource/anton/files/anton-latin-400-normal.woff2')})}
 @font-face{font-family:Inter;font-weight:600;src:url(${f64('@fontsource/inter/files/inter-latin-600-normal.woff2')})}
 @font-face{font-family:Inter;font-weight:700;src:url(${f64('@fontsource/inter/files/inter-latin-700-normal.woff2')})}`;
-const tel = 'data:image/png;base64,' + fs.readFileSync(path.join(__dirname, '..', 'risorse', 'telefoni-app-trasparente.png')).toString('base64');
+const img = (n) => 'data:image/png;base64,' + fs.readFileSync(path.join(__dirname, '..', 'risorse', n)).toString('base64');
+// schermate nuove dell'app: node schermate-app.js ../risorse
+const phone = (n, x, y, w, rot, z) => `<div class="ph" style="left:${x}px;top:${y}px;width:${w}px;height:${Math.round(w*844/390)+Math.round(w*0.06)}px;transform:rotate(${rot}deg);z-index:${z}"><img src="${img(n)}"></div>`;
 const out = process.argv[2];
 const flag = (a, b, px) => `<span class="flag" style="grid-template-columns:repeat(4,${px}px)">${Array.from({length:16},(_,i)=>`<i style="width:${px}px;height:${px}px;background:${((i%4)+Math.floor(i/4))%2?b:a}"></i>`).join('')}</span>`;
 const CSS = `*{margin:0;box-sizing:border-box}body{overflow:hidden;font-family:Inter}
@@ -19,11 +21,11 @@ const CSS = `*{margin:0;box-sizing:border-box}body{overflow:hidden;font-family:I
 .list{display:flex;flex-direction:column;gap:16px}
 .list div{display:flex;align-items:center;gap:16px;color:#fff;font-weight:700;font-size:30px;line-height:1.15}
 .list div:before{content:"✓";flex:0 0 40px;height:40px;border-radius:50%;background:#FF4419;color:#fff;font-size:24px;display:flex;align-items:center;justify-content:center}
-.tel{position:absolute;filter:drop-shadow(0 40px 60px rgba(0,0,0,.7)) drop-shadow(0 0 70px rgba(255,68,25,.45));transform:perspective(1600px) rotateY(-14deg) rotateZ(2deg)}
-.stamp{position:absolute;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;transform:rotate(-10deg);background:#fff;color:#16181B;box-shadow:0 14px 34px rgba(0,0,0,.5)}
+.ph{position:absolute;background:#0b0c0e;border:2px solid #4a4d52;border-radius:34px;padding:7px;box-shadow:0 40px 70px rgba(0,0,0,.7),0 0 70px rgba(255,68,25,.35)}.ph img{display:block;width:100%;border-radius:27px}
+.stamp{position:absolute;z-index:10;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;transform:rotate(-10deg);background:#fff;color:#16181B;box-shadow:0 14px 34px rgba(0,0,0,.5)}
 .stamp b{font-family:Anton;font-weight:400;line-height:1}.stamp span{font-weight:700;letter-spacing:2px;text-align:center}
-.cta{position:absolute;font-family:Anton;text-align:center;background:#FF4419;color:#fff;border-radius:16px}
-.disc{position:absolute;left:0;right:0;text-align:center;font-weight:600;font-size:21px;color:#8a8d92}`;
+.cta{position:absolute;z-index:10;font-family:Anton;text-align:center;background:#FF4419;color:#fff;border-radius:16px}
+.disc{position:absolute;z-index:10;left:0;right:0;text-align:center;font-weight:600;font-size:21px;color:#8a8d92}`;
 const A = (h) => { const o = h === 1920 ? 250 : 0; return `<div class="ad" style="width:1080px;height:${h}px">
 <div class="abs" style="inset:0;background:radial-gradient(circle at 74% ${h===1920?44:50}%,rgba(255,68,25,.42),rgba(255,68,25,0) 52%)"></div>
 <div class="floor" style="top:${o+930}px"></div>
@@ -35,7 +37,7 @@ const A = (h) => { const o = h === 1920 ? 250 : 0; return `<div class="ad" style
 <div class="abs" style="left:322px;top:${o+600}px;width:480px;color:#d9dadc;font-weight:600;font-size:28px;line-height:1.35">Il piano giorno per giorno, già pronto.</div>
 <div class="abs list" style="left:60px;top:${o+725}px;width:520px">
 <div>Piano 12 settimane + Express 6</div><div>Le 8 stazioni con le alternative</div><div>Test iniziale e ritmo gara</div><div>Checklist del giorno gara</div><div>Tutto nell'app, dal telefono</div></div>
-<img class="tel" src="${tel}" style="left:585px;top:${o+640}px;width:470px">
+${phone("app-ritmo.png", 600, o + 650, 215, -7, 2)}${phone("app-piano.png", 790, o + 620, 245, 5, 3)}
 <div class="stamp" style="left:810px;top:${o+390}px;width:220px;height:220px"><span style="font-size:15px">GUIDA + APP</span><b style="font-size:92px">27 €</b><span style="font-size:13px;color:#FF4419">DOWNLOAD<br>IMMEDIATO</span></div>
 <div class="cta" style="left:60px;right:60px;top:${o+1158}px;font-size:78px;padding:8px 0">Inizia ora – 27 €</div>
 <div class="disc" style="top:${o+1300}px">Guida indipendente, non affiliata a HYROX.</div></div>`; };
