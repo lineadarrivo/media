@@ -38,9 +38,10 @@ const A = (h) => { const o = h === 1920 ? 250 : 0; return `<div class="ad" style
 <div class="abs list" style="left:60px;top:${o+725}px;width:520px">
 <div>Piano 12 settimane + Express 6</div><div>Le 8 stazioni con le alternative</div><div>Test iniziale e ritmo gara</div><div>Checklist del giorno gara</div><div>Tutto nell'app, dal telefono</div></div>
 ${phone("app-ritmo.png", 600, o + 650, 215, -7, 2)}${phone("app-piano.png", 790, o + 620, 245, 5, 3)}
-<div class="stamp" style="left:810px;top:${o+390}px;width:220px;height:220px"><span style="font-size:15px">GUIDA + APP</span><b style="font-size:92px">27 €</b><span style="font-size:13px;color:#FF4419">DOWNLOAD<br>IMMEDIATO</span></div>
-<div class="cta" style="left:60px;right:60px;top:${o+1158}px;font-size:78px;padding:8px 0">Inizia ora – 27 €</div>
-<div class="disc" style="top:${o+1300}px">Guida indipendente, non affiliata a HYROX.</div></div>`; };
+<div class="stamp" style="left:810px;top:${o+390}px;width:220px;height:220px"><span style="font-size:15px">GUIDA + APP</span><b style="font-size:92px">27 €</b><span style="font-size:13px;color:#FF4419">UNA VOLTA<br>SOLA</span></div>
+<div class="cta" style="left:60px;right:60px;top:${o+1140}px;font-size:74px;padding:6px 0">Inizia ora – 27 €</div>
+<div class="disc" style="top:${o+1268}px;color:#fff;font-weight:700;font-size:27px">Pagamento unico, nessun abbonamento · Download immediato</div>
+<div class="disc" style="top:${o+1312}px;font-size:19px">Guida indipendente, non affiliata a HYROX.</div></div>`; };
 (async () => {
   fs.mkdirSync(out, { recursive: true });
   const b = await chromium.launch();
