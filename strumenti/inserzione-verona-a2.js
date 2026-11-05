@@ -33,8 +33,8 @@ const A = (h) => { const o = h === 1920 ? 250 : 0; return `<div class="ad" style
 <div class="abs anton" style="left:58px;top:${o+100}px;font-size:150px;color:#fff">HYROX <span style="color:#FF4419">VERONA</span></div>
 <div class="abs date" style="left:62px;top:${o+252}px;font-size:56px">28-31 GENNAIO 2027</div>
 <div class="abs anton" style="left:44px;top:${o+372}px;font-size:330px;color:#FF4419;text-shadow:0 0 80px rgba(255,68,25,.45)">12</div>
-<div class="abs anton" style="left:318px;top:${o+410}px;font-size:92px;color:#fff;line-height:.95">Settimane<br>al via.</div>
-<div class="abs" style="left:322px;top:${o+600}px;width:480px;color:#d9dadc;font-weight:600;font-size:28px;line-height:1.35">Il piano giorno per giorno, già pronto.</div>
+<div class="abs anton" style="left:318px;top:${o+410}px;font-size:92px;color:#fff;line-height:.95">Settimane<br>di piano.</div>
+<div class="abs" style="left:322px;top:${o+600}px;width:480px;color:#d9dadc;font-weight:600;font-size:28px;line-height:1.35">Il piano giorno per giorno, nell'app.</div>
 <div class="abs list" style="left:60px;top:${o+725}px;width:520px">
 <div>Piano 12 settimane + Express 6</div><div>Le 8 stazioni con le alternative</div><div>Test iniziale e ritmo gara</div><div>Checklist del giorno gara</div><div>Tutto nell'app, dal telefono</div></div>
 ${phone("app-ritmo.png", 600, o + 650, 215, -7, 2)}${phone("app-piano.png", 790, o + 620, 245, 5, 3)}

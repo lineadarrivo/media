@@ -1,5 +1,5 @@
 // Schermate aggiornate dell'app Primo Traguardo (stessa grafica di templates/page.app.liquid del tema Shopify),
-// con la gara impostata su HYROX Verona (28 gennaio 2027), piano 12 settimane, 4 giorni.
+// senza giorni mancanti (le inserzioni non devono invecchiare), piano 12 settimane, 4 giorni.
 // Uso: node schermate-app.js cartella_uscita  -> app-piano.png, app-ritmo.png, app-timer.png (390x844 @3x)
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
@@ -47,7 +47,7 @@ table{width:100%;border-collapse:collapse;font-size:15px}td{padding:9px 4px;bord
 .res{border-left:4px solid var(--acc)}`;
 const SB = `<div class="sb"><span>9:41</span><span class="r"><i></i><i></i><i></i><b></b></span></div>`;
 const LOGO = `<svg viewBox="0 0 74 74"><rect width="74" height="74" rx="10" fill="#16181B"/><g fill="#fff"><rect x="10" y="10" width="9" height="9"/><rect x="28" y="10" width="9" height="9"/><rect x="46" y="10" width="9" height="9"/><rect x="19" y="19" width="9" height="9"/><rect x="37" y="19" width="9" height="9"/><rect x="55" y="19" width="9" height="9"/></g><rect x="10" y="36" width="54" height="6" fill="#FF4419"/><path d="M16 64 L30 50 L40 58 L58 44" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-const HDR = `<header><div class="wrap">${LOGO}<div class="t">Primo Traguardo</div><div class="cd"><b>83</b> giorni<br>alla gara</div></div></header>`;
+const HDR = `<header><div class="wrap">${LOGO}<div class="t">Primo Traguardo</div><div class="cd"></div></div></header>`;
 const NAV = (on) => `<nav><div class="wrap">${[
   ['plan', 'Piano', '<rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4M8 14l2.5 2.5L16 12"/>'],
   ['test', 'Test', '<path d="M9 3h6M10 3v5L5 19a1.5 1.5 0 0 0 1.3 2h11.4A1.5 1.5 0 0 0 19 19l-5-11V3"/>'],
@@ -58,7 +58,7 @@ const NAV = (on) => `<nav><div class="wrap">${[
 const SESS = [['Corsa lunga', '25 min a ritmo facile (devi riuscire a parlare)'], ['Tecnica stazioni', 'Giro leggero di tutte le 8 stazioni a volume ridotto, pause complete, solo tecnica'], ['Ripetute', '4 × 400 m a ritmo gara +10 sec, recupero 90 sec'], ['Forza generale + core', 'Squat, affondi, stacco, trazioni, plank: 2-3 serie × 10-12']];
 const piano = `${SB}${HDR}<div class="wrap">
 <div class="k" style="margin-top:22px">Piano 12 settimane · 4 giorni</div><h1>Settimana 1 di 12</h1>
-<p class="mut">Mancano <b style="color:#fff">83 giorni</b> alla gara.</p>
+<p class="mut">Gara: <b style="color:#fff">HYROX Verona</b>. Oggi sai già cosa fare.</p>
 <div class="row"><div style="flex:1"><div class="prog"><i style="width:4%"></i></div></div><div class="note" style="font-weight:800">2/49</div></div>
 <div class="wk">${Array.from({length:7},(_,i)=>`<span class="${i===0?'on cur':''}"><small>SETT</small>${i+1}</span>`).join('')}</div>
 <div class="card"><div class="row" style="justify-content:space-between"><div><div class="k">Settimana 1</div><h2 style="margin:6px 0 2px">Base</h2></div><span class="tag a">Questa settimana</span></div>

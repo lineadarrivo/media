@@ -14,6 +14,9 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
 
 ### Inserzioni
 - Le grafiche per le inserzioni Meta si fanno SOLO quando Umberto lo chiede esplicitamente. Mai nei giri automatici.
+- Le inserzioni devono essere "senza scadenza": una volta pubblicate non vanno MAI più aggiornate, perché ogni modifica fa ripartire
+  da capo l'apprendimento di Meta. Quindi niente conti alla rovescia, "mancano X giorni/settimane", "ultimi giorni" o altro che
+  invecchia (neanche nelle schermate dell'app). Data della gara e prezzo vanno bene solo se restano veri finché l'inserzione gira.
 
 ### Brand
 - Colori: arancio #FF4419 (accento, una cosa alla volta), quasi nero #16181B, sabbia #ECE8E0, bianco.
