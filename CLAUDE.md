@@ -12,6 +12,9 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
 ### Lingua
 - Rispondi a Umberto SEMPRE e SOLO in italiano, in ogni messaggio (anche riepiloghi e messaggi finali).
 
+### Inserzioni
+- Le grafiche per le inserzioni Meta si fanno SOLO quando Umberto lo chiede esplicitamente. Mai nei giri automatici.
+
 ### Brand
 - Colori: arancio #FF4419 (accento, una cosa alla volta), quasi nero #16181B, sabbia #ECE8E0, bianco.
 - Caratteri: Anton maiuscolo per i titoli, Inter per il testo.
