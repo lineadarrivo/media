@@ -19,11 +19,11 @@ const CSS = `*{margin:0;box-sizing:border-box}body{overflow:hidden;font-family:I
 .phone{position:absolute;background:#08090a;border:3px solid #55595f;border-radius:52px;padding:11px;box-shadow:0 60px 110px rgba(0,0,0,.8),0 0 140px rgba(255,68,25,.5),inset 0 0 0 2px #1d1f22}
 .phone img{display:block;width:100%;border-radius:41px}
 .fc{position:absolute;background:rgba(28,31,35,.94);border:1.5px solid rgba(255,255,255,.12);border-radius:22px;padding:18px 22px;box-shadow:0 30px 60px rgba(0,0,0,.6);backdrop-filter:blur(6px)}
-.fc .k{color:#FF4419;font-weight:800;font-size:15px;letter-spacing:.16em;text-transform:uppercase}
-.fc .v{font-family:Anton;font-size:70px;line-height:1;margin-top:6px;display:flex;align-items:baseline;justify-content:inherit}.fc .v small{font-family:Inter;font-weight:700;font-size:20px;color:#A9A49B;margin-left:6px}
-.fc .c{display:flex;align-items:center;gap:12px;font-weight:700;font-size:21px;margin-top:10px}
+.fc .k{color:#FF4419;font-weight:800;font-size:20px;letter-spacing:.16em;text-transform:uppercase}
+.fc .v{font-family:Anton;font-size:70px;line-height:1;margin-top:6px;display:flex;align-items:baseline;justify-content:inherit}.fc .v small{font-family:Inter;font-weight:700;font-size:26px;color:#A9A49B;margin-left:6px}
+.fc .c{display:flex;align-items:center;gap:12px;font-weight:700;font-size:26px;margin-top:10px}
 .fc .c i{flex:none;width:28px;height:28px;border-radius:8px;background:#FF4419;position:relative}.fc .c i:after{content:"";position:absolute;left:8px;top:7px;width:11px;height:6px;border-left:3px solid #16181B;border-bottom:3px solid #16181B;transform:rotate(-45deg)}
-.fc .btn{margin-top:12px;background:#FF4419;color:#16181B;border-radius:12px;text-align:center;font-weight:800;font-size:18px;padding:10px 0}
+.fc .btn{margin-top:12px;background:#FF4419;color:#16181B;border-radius:12px;text-align:center;font-weight:800;font-size:24px;padding:10px 0}
 .chips{display:flex;flex-wrap:wrap;gap:10px}.chips span{border:1.5px solid rgba(255,255,255,.22);border-radius:30px;padding:8px 16px;font-weight:700;font-size:21px;color:#e6e6e6;background:rgba(255,255,255,.04)}
 .cta{position:absolute;font-family:Anton;text-align:center;background:linear-gradient(90deg,#FF4419,#ff6a3d);color:#fff;border-radius:18px;box-shadow:0 20px 50px rgba(255,68,25,.4);z-index:10}
 .sub{position:absolute;left:0;right:0;text-align:center;font-weight:800;z-index:10}
@@ -38,11 +38,10 @@ const AD = (h) => { const o = h === 1920 ? 250 : 0; return `<div class="ad" styl
 <div class="abs anton" style="left:56px;top:${o+158}px;font-size:236px;letter-spacing:2px;text-shadow:0 10px 40px rgba(0,0,0,.5)">VERONA</div>
 <div class="abs anton" style="left:66px;top:${o+382}px;font-size:46px;line-height:1;background:#FF4419;padding:10px 20px;transform:rotate(-2deg);box-shadow:0 12px 30px rgba(255,68,25,.4)">28-31 GENNAIO 2027</div>
 <div class="phone" style="left:430px;top:${o+430}px;width:330px;transform:perspective(1800px) rotateY(-12deg) rotateZ(6deg)"><img src="${img('app-piano.png')}"></div>
-<div class="fc" style="left:60px;top:${o+520}px;width:330px;transform:rotate(-4deg)"><div class="k">Piano</div><div class="v">12 <small>settimane</small></div><div class="c" style="color:#A9A49B;font-size:19px">oppure Express da 6</div></div>
-<div class="fc" style="left:70px;top:${o+725}px;width:300px;transform:rotate(3deg)"><div class="k">Ritmo gara</div><div class="v">8:07<small>/km</small></div><div class="c" style="color:#A9A49B;font-size:19px">calcolato sul tuo obiettivo</div></div>
-<div class="fc" style="left:780px;top:${o+600}px;width:250px;transform:rotate(5deg);text-align:center"><div class="k">Timer · Lavoro</div><div class="v" style="font-size:84px;justify-content:center">0:42</div><div class="btn">Pausa</div></div>
-<div class="fc" style="left:690px;top:${o+905}px;width:350px;transform:rotate(-3deg)"><div class="k">Giorno gara</div><div class="c"><i></i>Borsa pronta</div><div class="c"><i></i>Colazione 2-3 ore prima</div><div class="c"><i></i>Riscaldamento 10-15'</div></div>
-<div class="fc" style="left:60px;top:${o+935}px;width:330px;transform:rotate(-2deg)"><div class="k">8 stazioni</div><div class="c" style="font-size:20px">Con le alternative per la palestra normale</div></div>
+<div class="fc" style="left:50px;top:${o+535}px;width:370px;transform:rotate(-4deg)"><div class="k">Piano</div><div class="v" style="font-size:80px">12<small>settimane</small></div><div class="c" style="color:#d0ccc4;font-size:24px">oppure Express da 6</div></div>
+<div class="fc" style="left:55px;top:${o+775}px;width:360px;transform:rotate(3deg)"><div class="k">Ritmo gara</div><div class="v" style="font-size:80px">8:07<small>/km</small></div><div class="c" style="color:#d0ccc4;font-size:24px">sul tuo tempo obiettivo</div></div>
+<div class="fc" style="left:770px;top:${o+590}px;width:275px;transform:rotate(5deg);text-align:center"><div class="k">Timer · Lavoro</div><div class="v" style="font-size:84px;justify-content:center">0:42</div><div class="btn">Pausa</div></div>
+<div class="fc" style="left:640px;top:${o+900}px;width:415px;transform:rotate(-3deg)"><div class="k">Giorno gara</div><div class="c"><i></i>Borsa pronta</div><div class="c"><i></i>Colazione 2-3 ore prima</div><div class="c"><i></i>Riscaldamento 10-15'</div></div>
 <div class="cta" style="left:60px;right:60px;top:${o+1140}px;font-size:74px;padding:2px 0">Inizia ora – 27 €</div>
 <div class="sub" style="top:${o+1272}px;font-size:26px">Una volta sola · nessun abbonamento · download immediato</div>
 <div class="disc" style="top:${o+1316}px">Guida indipendente, non affiliata a HYROX.</div></div>`; };
