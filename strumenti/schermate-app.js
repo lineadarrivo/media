@@ -82,7 +82,8 @@ const timer = `${SB}${HDR}<div class="wrap"><div class="k" style="margin-top:22p
 (async () => {
   fs.mkdirSync(out, { recursive: true });
   const b = await chromium.launch();
-  for (const [n, h] of [['piano', piano], ['ritmo', ritmo], ['timer', timer]]) {
+  const pianoBase = piano.replace('Gara: <b style="color:#fff">HYROX Verona</b>. Oggi sai già cosa fare.', 'Apri l\'app: <b style="color:#fff">oggi sai già cosa fare.</b>');
+  for (const [n, h] of [['piano', piano], ['piano-base', pianoBase], ['ritmo', ritmo], ['timer', timer]]) {
     const p = await b.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 3 });
     await p.setContent(`<style>${FONTS}${CSS}</style><div style="position:relative;width:390px;height:844px">${h}</div>`); await p.evaluate(() => document.fonts.ready);
     await p.screenshot({ path: path.join(out, `app-${n}.png`) }); await p.close();
