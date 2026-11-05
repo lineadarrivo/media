@@ -16,6 +16,11 @@ for i in range(1, n + 1):
     if i == 1: segs.append((f's{i}b', 3.5))  # prima schermata intera
     else:
         segs.append((f's{i}a', 1.3)); segs.append((f's{i}b', 5.0 if i == n else 3.7))
+# DURATE (facoltativa): durate personalizzate delle schermate separate da virgola, nello stesso ordine
+# (s1b, s2a, s2b, s3a, ...): serve per il reel con voce, quando la voce dura più del testo.
+if os.environ.get('DURATE'):
+    dd = [float(v) for v in os.environ['DURATE'].split(',')]; assert len(dd) == len(segs), 'DURATE: numero di valori sbagliato'
+    segs = [(nm, t) for (nm, _), t in zip(segs, dd)]
 x = 0.25; I = 1.33; start = I - 0.3  # la dissolvenza intro->scena inizia a 1,03 e la scena è piena a 1,33
 total_sc = sum(t for _, t in segs); T = start + total_sc
 drop = 1.25  # primo fotogramma in cui la scena si vede chiaramente: qui parte l'attacco

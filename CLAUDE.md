@@ -39,5 +39,7 @@ cd strumenti && npm install            # solo la prima volta (font Anton e Inter
 node genera.js contenuti.json out      # grafiche e schermate dei reel
 python3 reel.py out/<id-reel> <stile> out/<id-reel>.mp4 [TRASP] [SEED]
 python3 prepara.py contenuti.json out  # JPG nel repository + documenti per la pagina di approvazione
+# reel con voce: DURATE="s1b,s2a,s2b,..." python3 reel.py ... poi python3 voce.py out/<id-reel> out/<id-reel>.mp4 <DURATE> voce-1.wav ...
+node inserzioni.js inserzioni.json out # grafiche per le inserzioni Meta in 1080x1080, 1080x1920, 1920x1080
 ```
 Formato di `contenuti.json`: vedi gli esempi in `strumenti/esempio-contenuti.json`.

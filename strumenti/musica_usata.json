@@ -28,5 +28,17 @@
   "id": "2026-11-13-reel-milano-3-settimane",
   "stile": "ritmo",
   "trasp": 0
+ },
+ {
+  "data": "2026-11-17",
+  "id": "2026-11-17-reel-primo-hyrox-4-momenti",
+  "stile": "carica",
+  "trasp": 2
+ },
+ {
+  "data": "2026-11-20",
+  "id": "2026-11-20-reel-ritmo-gara",
+  "stile": "energia",
+  "trasp": 3
  }
 ]

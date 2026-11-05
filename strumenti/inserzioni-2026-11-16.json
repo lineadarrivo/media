@@ -1,0 +1,41 @@
+{
+ "inserzioni": [
+  {
+   "id": "2026-11-16-inserzione-paura-di-non-finire",
+   "angolo": "dolore",
+   "titolo": "Paura di non finire?",
+   "titolo_grafica": "Paura di non <em>finire?</em>",
+   "beneficio": "Un piano giorno per giorno, dalla prima corsa al traguardo.",
+   "schermo": {"etichetta": "SETTIMANA 1 DI 12", "titolo": "Oggi: test iniziale", "righe": ["Riscaldamento 10 minuti", "Corsa: il tuo punto di partenza", "Stazioni con le alternative"], "fatte": 1, "bottone": "INIZIA"},
+   "prezzo": "27 €",
+   "sostituisce": "02 - Palestra senza slitta (anche 06 - App: Coach in tasca)",
+   "titolo_inserzione": "Paura di non finire? Parti da qui",
+   "testo_principale": "Hai paura di non arrivare in fondo al tuo primo HYROX? 😮‍💨\nÈ la paura più comune, e si batte con un piano.\nPrimo Traguardo parte da un test iniziale e ti dice cosa fare ogni giorno: piano di 12 settimane (o Express da 6), le 8 stazioni con le alternative per la palestra normale e il ritmo gara.\nGuida PDF + app a 27 €. Download immediato: puoi iniziare oggi.\n👉 Tocca \"Scopri di più\"."
+  },
+  {
+   "id": "2026-11-16-inserzione-giorno-gara-pronto",
+   "angolo": "desiderio",
+   "titolo": "Il giorno gara sai già cosa fare",
+   "titolo_grafica": "Il giorno gara sai già <em>cosa fare.</em>",
+   "fs_quadrato": 104, "y_ben_quadrato": 580, "fs_verticale": 120, "y_ben_verticale": 830, "fs_orizzontale": 116, "y_ben_orizzontale": 660,
+   "beneficio": "Ritmo km per km sul tuo tempo obiettivo e checklist del giorno gara, nell'app.",
+   "schermo": {"etichetta": "GIORNO GARA", "titolo": "La tua checklist", "righe": ["Borsa pronta la sera prima", "Colazione 2-3 ore prima", "Ritmo gara km per km"], "fatte": 2, "bottone": "VIA!"},
+   "prezzo": "27 €",
+   "sostituisce": "",
+   "titolo_inserzione": "Arriva al via sentendoti pronto",
+   "testo_principale": "Immagina la mattina del tuo primo HYROX. 🏁\nLa borsa è pronta dalla sera prima. Sai a che ritmo correre ogni km e come affrontare ogni stazione. Arrivi al via tranquillo.\nÈ questo che ti dà Primo Traguardo: il piano di allenamento, il ritmo gara calcolato sul tuo tempo obiettivo e la checklist del giorno gara, tutto nell'app.\nGuida PDF + app a 27 €. Download immediato.\n👉 Inizia oggi: tocca \"Scopri di più\"."
+  },
+  {
+   "id": "2026-11-16-inserzione-poco-tempo",
+   "angolo": "obiezione",
+   "titolo": "Poco tempo? Zero dubbi",
+   "titolo_grafica": "Poco tempo? <em>Zero dubbi.</em>",
+   "beneficio": "Apri l'app: l'allenamento di oggi è già pronto. Anche in una palestra normale.",
+   "schermo": {"etichetta": "SETTIMANA 5 DI 12", "titolo": "Oggi: corsa + stazioni", "righe": ["Corsa leggera", "Corsa + stazione, senza pause", "Alternativa: niente slitta"], "fatte": 2, "bottone": "TIMER"},
+   "prezzo": "27 €",
+   "sostituisce": "",
+   "titolo_inserzione": "Poco tempo? Il piano è già pronto",
+   "testo_principale": "Lavoro, famiglia, mille impegni: il tempo per allenarti è poco? Allora non sprecarlo a chiederti cosa fare. ⏱️\n✔ L'allenamento del giorno già pronto nell'app, da spuntare\n✔ Piano di 12 settimane o Express da 6\n✔ Le 8 stazioni con le alternative per la palestra normale\n✔ Timer e ritmo gara inclusi\nPrimo Traguardo: guida PDF + app a 27 €. Download immediato.\n👉 Tocca \"Scopri di più\" e inizia oggi."
+  }
+ ]
+}

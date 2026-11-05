@@ -1,0 +1,213 @@
+{
+ "contenuti": [
+  {
+   "id": "2026-11-16-carosello-milano-giorno-gara",
+   "tipo": "carosello",
+   "pilastro": "informativo",
+   "data": "2026-11-16",
+   "ora": "18:30",
+   "titolo": "Primo HYROX a Milano: il giorno gara in 5 mosse",
+   "slide": [
+    {
+     "etichetta": "Milano · 4-6 dicembre",
+     "titolo": "Il giorno gara in <em>5 mosse.</em>",
+     "testo": "È il tuo primo HYROX e hai paura di dimenticare qualcosa? Segui questi 5 passi.",
+     "chiusura": "Salvalo per la sera prima."
+    },
+    {
+     "etichetta": "1 · La sera prima",
+     "titolo": "Prepara la <em>borsa.</em>",
+     "lista": [
+      "Pettorale e documento",
+      "Scarpe già collaudate",
+      "Calzini di ricambio",
+      "Vestiti asciutti per dopo"
+     ]
+    },
+    {
+     "etichetta": "2 · La mattina",
+     "titolo": "Colazione <em>2-3 ore prima.</em>",
+     "testo": "Carboidrati facili da digerire, poco grasso e poca fibra. Il caffè solo se lo bevi sempre: oggi non si prova niente di nuovo."
+    },
+    {
+     "etichetta": "3 · Prima del via",
+     "titolo": "Scaldati <em>10-15 minuti.</em>",
+     "testo": "5 minuti di corsa leggera, un po' di mobilità e qualche ripetizione leggera degli esercizi. Poi tieniti al caldo."
+    },
+    {
+     "etichetta": "4 · In gara",
+     "titolo": "Un pezzo <em>alla volta.</em>",
+     "testo": "Non pensare agli 8 km: pensa solo al prossimo km o alla prossima stazione. Dopo ogni stazione riparti piano."
+    },
+    {
+     "etichetta": "5 · Tutto in tasca",
+     "titolo": "La checklist <em>completa.</em>",
+     "testo": "In Primo Traguardo trovi la checklist del giorno gara e il ritmo km per km sul tuo tempo obiettivo, nell'app.",
+     "chiusura": "Guida + app · 27 €"
+    }
+   ],
+   "didascalia": "Il tuo primo HYROX è a Milano e hai paura di dimenticare qualcosa? 🎒\nBorsa la sera prima, colazione 2-3 ore prima, 10-15 minuti di riscaldamento e in gara un pezzo alla volta.\nSalvalo e mandalo a chi corre con te.\n\nPrimo Traguardo: guida + app a 27 €, con la checklist completa del giorno gara. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-17-reel-primo-hyrox-4-momenti",
+   "tipo": "reel",
+   "pilastro": "intrattenimento",
+   "voce": false,
+   "musica": "carica",
+   "trasp": 2,
+   "seed": 31,
+   "data": "2026-11-17",
+   "ora": "18:30",
+   "titolo": "Il tuo primo HYROX in 4 momenti",
+   "scene": [
+    {
+     "etichetta": "Primo HYROX",
+     "titolo": "Il tuo primo HYROX in <em>4 momenti.</em>",
+     "rivela": {
+      "testo": "Quale ti è già successo?"
+     }
+    },
+    {
+     "etichetta": "Quando ti iscrivi",
+     "titolo": "“Dai, cosa vuoi <em>che sia.</em>”",
+     "rivela": {
+      "testo": "Sono solo 8 km e qualche esercizio, no?"
+     }
+    },
+    {
+     "etichetta": "Prima volta con la slitta",
+     "titolo": "“Ah. <em>Ecco.</em>”",
+     "rivela": {
+      "testo": "Le gambe capiscono subito che non è uno scherzo."
+     }
+    },
+    {
+     "etichetta": "Al quinto km",
+     "titolo": "“Chi me l'ha fatto <em>fare?</em>”",
+     "rivela": {
+      "testo": "Testa giù, un km alla volta. Passa anche questo."
+     }
+    },
+    {
+     "etichetta": "Dopo il traguardo",
+     "titolo": "“Quando è la <em>prossima?</em>”",
+     "rivela": {
+      "testo": "E la fatica è già dimenticata."
+     }
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     }
+    }
+   ],
+   "didascalia": "Iscrizione, prima slitta, quinto km, traguardo: in quale momento sei adesso? 😅\nScrivilo nei commenti e tagga chi fa il primo HYROX con te.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-18-post-obiettivo-finire",
+   "tipo": "post",
+   "pilastro": "identitario",
+   "data": "2026-11-18",
+   "ora": "18:30",
+   "titolo": "Paura di arrivare ultimo? Il tuo obiettivo è finire",
+   "etichetta": "Primo HYROX",
+   "titolo_grafica": "x",
+   "slide": [
+    {
+     "etichetta": "Paura di arrivare ultimo?",
+     "titolo": "Il tuo obiettivo: <em>finire.</em>",
+     "testo": "Al primo HYROX non gareggi contro gli altri: gareggi contro chi eri il giorno dell'iscrizione. Scegli un ritmo che puoi tenere fino alla fine e goditi il traguardo.",
+     "chiusura": "Salvalo."
+    }
+   ],
+   "didascalia": "Hai paura di arrivare ultimo al tuo primo HYROX? 🏁\nPer noi di Linea d'Arrivo il primo obiettivo è uno solo: finire. Non contro gli altri, ma contro chi eri il giorno dell'iscrizione.\nSalvalo e rileggilo quando ti viene il dubbio.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-20-reel-ritmo-gara",
+   "tipo": "reel",
+   "pilastro": "informativo",
+   "voce": true,
+   "musica": "energia",
+   "trasp": 3,
+   "seed": 41,
+   "data": "2026-11-20",
+   "ora": "18:30",
+   "titolo": "A che ritmo corro al primo HYROX? (con voce)",
+   "scene": [
+    {
+     "etichetta": "Il dubbio",
+     "titolo": "A che ritmo <em>corro?</em>",
+     "rivela": {
+      "testo": "Al primo HYROX è la domanda di tutti."
+     },
+     "voce": "A che ritmo corro? Al primo Hyrox è la domanda di tutti."
+    },
+    {
+     "etichetta": "Il fatto",
+     "titolo": "8 km, ma <em>a pezzi.</em>",
+     "rivela": {
+      "testo": "Dopo ogni km c'è una stazione. Non è una corsa normale."
+     },
+     "voce": "Otto chilometri, ma a pezzi. Dopo ogni chilometro c'è una stazione. Non è una corsa normale."
+    },
+    {
+     "etichetta": "La regola",
+     "titolo": "Più piano del <em>solito.</em>",
+     "rivela": {
+      "testo": "Alla stazione devi arrivare con il fiato."
+     },
+     "voce": "Più piano del solito. Alla stazione devi arrivare con il fiato."
+    },
+    {
+     "etichetta": "Il test",
+     "titolo": "Prova a <em>parlare.</em>",
+     "rivela": {
+      "testo": "Se riesci a dire una frase intera mentre corri, il ritmo è giusto."
+     },
+     "voce": "Prova a parlare. Se riesci a dire una frase intera mentre corri, il ritmo è giusto."
+    },
+    {
+     "etichetta": "Dopo la stazione",
+     "titolo": "Riparti <em>piano.</em>",
+     "rivela": {
+      "testo": "I primi metri sono i più duri. Poi torni al tuo ritmo."
+     },
+     "voce": "Riparti piano. I primi metri sono i più duri. Poi torni al tuo ritmo."
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     },
+     "voce": "La checklist del giorno gara. Scrivi checklist nei commenti."
+    }
+   ],
+   "didascalia": "Non sai a che ritmo correre al tuo primo HYROX? 🏃\nSono 8 km a pezzi, con una stazione dopo ogni km: corri più piano del solito, fai la prova della frase e dopo ogni stazione riparti piano.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €, con il ritmo km per km sul tuo tempo obiettivo. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-22-post-sai-cosa-fare",
+   "tipo": "post",
+   "pilastro": "commerciale",
+   "stile": "chiaro",
+   "data": "2026-11-22",
+   "ora": "10:00",
+   "titolo": "Ogni giorno sai cosa fare (27 €)",
+   "titolo_grafica": "Ogni giorno<br>sai cosa<br><em>fare.</em>",
+   "testo": "Guida PDF + app: piano di 12 settimane o Express da 6, le 8 stazioni con le alternative, ritmo gara e checklist.",
+   "bollo": {
+    "sopra": "GUIDA + APP",
+    "grande": "27 €",
+    "sotto": "SUBITO TUA"
+   },
+   "barra": "Primo Traguardo – 27 €",
+   "didascalia": "Ti sei iscritto al primo HYROX e non sai da dove partire? 🤔\nCon Primo Traguardo ogni giorno sai cosa fare: piano di 12 settimane (o Express da 6), le 8 stazioni con le alternative per la palestra normale, ritmo gara e checklist del giorno gara.\nGuida PDF + app a 27 €, la ricevi subito dopo l'acquisto.\n\nLink in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ]
+}
