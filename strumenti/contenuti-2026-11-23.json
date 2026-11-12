@@ -1,0 +1,213 @@
+{
+ "contenuti": [
+  {
+   "id": "2026-11-23-carosello-3-allenamenti",
+   "tipo": "carosello",
+   "pilastro": "informativo",
+   "data": "2026-11-23",
+   "ora": "18:30",
+   "titolo": "Il tuo primo HYROX con 3 allenamenti a settimana",
+   "slide": [
+    {
+     "etichetta": "Poco tempo?",
+     "titolo": "Primo HYROX con <em>3 allenamenti.</em>",
+     "testo": "Hai solo tre sere libere a settimana e pensi che non bastino? Ecco come può essere una settimana tipo, in una palestra normale.",
+     "chiusura": "Salvalo per la prossima settimana."
+    },
+    {
+     "etichetta": "Allenamento 1",
+     "titolo": "La <em>corsa.</em>",
+     "testo": "Una corsa tranquilla, a un ritmo in cui riesci a parlare. Più di metà della gara è corsa: si parte da qui."
+    },
+    {
+     "etichetta": "Allenamento 2",
+     "titolo": "Le <em>stazioni.</em>",
+     "lista": [
+      "Affondi e squat al posto della slitta",
+      "Vogatore o bici per il fiato",
+      "Burpee e wall ball con la palla medica",
+      "Tutto con l'attrezzatura che hai già"
+     ]
+    },
+    {
+     "etichetta": "Allenamento 3",
+     "titolo": "Corsa + <em>stazione.</em>",
+     "testo": "Alterna un pezzo di corsa e un esercizio, senza pause lunghe. Così il corpo impara a ripartire con le gambe stanche, come in gara."
+    },
+    {
+     "etichetta": "Gli altri giorni",
+     "titolo": "Recupera <em>davvero.</em>",
+     "testo": "Una passeggiata, un po' di mobilità, dormire bene. Il fisico migliora quando recupera, non solo quando fatica."
+    },
+    {
+     "etichetta": "Ogni giorno sai cosa fare",
+     "titolo": "Il piano <em>completo.</em>",
+     "testo": "In Primo Traguardo trovi il piano settimana per settimana, le alternative per le 8 stazioni e il ritmo gara, nell'app.",
+     "chiusura": "Guida + app · 27 €"
+    }
+   ],
+   "didascalia": "Hai solo 3 sere libere a settimana per preparare il primo HYROX? 🗓️\nUna corsa tranquilla, un allenamento sulle stazioni e uno corsa + stazione: in una palestra normale, con quello che hai già.\nSalvalo e mandalo a chi si allena con te.\n\nPrimo Traguardo: guida + app a 27 €, con il piano settimana per settimana. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-24-reel-hyrox-in-palestra",
+   "tipo": "reel",
+   "pilastro": "intrattenimento",
+   "voce": false,
+   "musica": "grinta",
+   "trasp": -3,
+   "seed": 53,
+   "data": "2026-11-24",
+   "ora": "18:30",
+   "titolo": "Quando ti alleni per HYROX in una palestra normale",
+   "scene": [
+    {
+     "etichetta": "Palestra normale",
+     "titolo": "Quando ti alleni per HYROX in una <em>palestra normale.</em>",
+     "rivela": {
+      "testo": "Ti riconosci?"
+     }
+    },
+    {
+     "etichetta": "In sala pesi",
+     "titolo": "Burpee e salti <em>in lungo.</em>",
+     "rivela": {
+      "testo": "E tutti si girano a guardarti."
+     }
+    },
+    {
+     "etichetta": "La slitta",
+     "titolo": "“Scusa, avete <em>una slitta?</em>”",
+     "rivela": {
+      "testo": "No. Allora affondi e squat, e le gambe bruciano lo stesso."
+     }
+    },
+    {
+     "etichetta": "Il tapis roulant",
+     "titolo": "Corri, scendi, <em>riparti.</em>",
+     "rivela": {
+      "testo": "Quello accanto non capisce perché ti fermi ogni km."
+     }
+    },
+    {
+     "etichetta": "A fine allenamento",
+     "titolo": "Steso a terra, <em>felice.</em>",
+     "rivela": {
+      "testo": "Non serve una palestra speciale. Serve un piano."
+     }
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     }
+    }
+   ],
+   "didascalia": "Burpee in sala pesi, niente slitta e il tapis roulant che si ferma ogni km: ti è già successo? 😅\nScrivi nei commenti qual è la tua e tagga chi si allena con te.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €, con le alternative per la palestra normale. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-25-post-gambe-stanche",
+   "tipo": "post",
+   "pilastro": "informativo",
+   "data": "2026-11-25",
+   "ora": "18:30",
+   "titolo": "Allena la corsa con le gambe stanche",
+   "etichetta": "Primo HYROX",
+   "titolo_grafica": "x",
+   "slide": [
+    {
+     "etichetta": "Le gambe non ripartono?",
+     "titolo": "Corri con le gambe <em>stanche.</em>",
+     "testo": "In gara corri sempre dopo una stazione. Allenalo così: 20 affondi, poi subito 500 metri di corsa tranquilla. Ripeti 3-4 volte, senza fermarti tra un pezzo e l'altro.",
+     "chiusura": "Salvalo."
+    }
+   ],
+   "didascalia": "Esci da una stazione e le gambe sembrano di legno? 🦵\nIn gara corri sempre dopo un esercizio, quindi allenalo: 20 affondi e subito 500 metri di corsa tranquilla, per 3-4 volte. Lo fai in qualsiasi palestra.\nSalvalo e provalo al prossimo allenamento.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-27-reel-non-serve-palestra-hyrox",
+   "tipo": "reel",
+   "pilastro": "identitario",
+   "voce": true,
+   "musica": "epica",
+   "trasp": 0,
+   "seed": 61,
+   "data": "2026-11-27",
+   "ora": "18:30",
+   "titolo": "Non hai una palestra HYROX? Non ti serve (con voce)",
+   "scene": [
+    {
+     "etichetta": "Il dubbio",
+     "titolo": "Non hai una palestra <em>HYROX?</em>",
+     "rivela": {
+      "testo": "Tranquillo. Non ti serve."
+     },
+     "voce": "Non hai una palestra Hyrox? Tranquillo. Non ti serve."
+    },
+    {
+     "etichetta": "In cosa crediamo",
+     "titolo": "Il primo HYROX è <em>per tutti.</em>",
+     "rivela": {
+      "testo": "Non solo per chi ha l'attrezzatura giusta."
+     },
+     "voce": "Il primo Hyrox è per tutti. Non solo per chi ha l'attrezzatura giusta."
+    },
+    {
+     "etichetta": "Il fatto",
+     "titolo": "Ogni stazione ha <em>un'alternativa.</em>",
+     "rivela": {
+      "testo": "Niente slitta? Affondi e squat."
+     },
+     "voce": "Ogni stazione ha un'alternativa. Niente slitta? Affondi e squat."
+    },
+    {
+     "etichetta": "La soluzione",
+     "titolo": "Ti serve un <em>piano.</em>",
+     "rivela": {
+      "testo": "Sapere ogni giorno cosa fare, con quello che hai già."
+     },
+     "voce": "Ti serve un piano. Sapere ogni giorno cosa fare, con quello che hai già."
+    },
+    {
+     "etichetta": "Il traguardo",
+     "titolo": "Il resto lo fai <em>tu.</em>",
+     "rivela": {
+      "testo": "Un allenamento alla volta, fino al traguardo."
+     },
+     "voce": "Il resto lo fai tu. Un allenamento alla volta, fino al traguardo."
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     },
+     "voce": "La checklist del giorno gara. Scrivi checklist nei commenti."
+    }
+   ],
+   "didascalia": "Pensi di non poter fare il primo HYROX perché la tua palestra non ha slitta né SkiErg? 🏋️\nPer noi il primo HYROX è per tutti: ogni stazione ha un'alternativa con l'attrezzatura che hai già. Ti serve un piano, il resto lo fai tu.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-29-post-piano-in-tasca",
+   "tipo": "post",
+   "pilastro": "commerciale",
+   "stile": "chiaro",
+   "data": "2026-11-29",
+   "ora": "10:00",
+   "titolo": "Il piano sempre in tasca (27 €)",
+   "titolo_grafica": "Il piano<br>sempre<br><em>in tasca.</em>",
+   "testo": "Nell'app spunti ogni allenamento, usi il timer e calcoli il ritmo km per km. Con la guida PDF: 8 stazioni e alternative.",
+   "bollo": {
+    "sopra": "GUIDA + APP",
+    "grande": "27 €",
+    "sotto": "SUBITO TUA"
+   },
+   "barra": "Primo Traguardo – 27 €",
+   "didascalia": "Arrivi in palestra e non sai cosa fare oggi? 📱\nCon Primo Traguardo il piano è sempre nel telefono: spunti ogni allenamento, usi il timer e calcoli il ritmo km per km sul tuo tempo obiettivo. Nella guida PDF trovi le 8 stazioni con le alternative per la palestra normale e la checklist del giorno gara.\nGuida + app a 27 €, la ricevi subito dopo l'acquisto.\n\nLink in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ]
+}

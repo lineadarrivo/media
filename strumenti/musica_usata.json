@@ -42,5 +42,19 @@
   "id": "2026-11-20-reel-ritmo-gara",
   "stile": "energia",
   "trasp": 3
+ },
+ {
+  "data": "2026-11-24",
+  "id": "2026-11-24-reel-hyrox-in-palestra",
+  "stile": "grinta",
+  "trasp": -3,
+  "seed": 53
+ },
+ {
+  "data": "2026-11-27",
+  "id": "2026-11-27-reel-non-serve-palestra-hyrox",
+  "stile": "epica",
+  "trasp": 0,
+  "seed": 61
  }
 ]
