@@ -24,6 +24,9 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
 - Tono: motivazionale e pratico. Prima la paura o il dubbio, poi un fatto e una soluzione concreta. Si dà del tu.
 - In fondo a ogni grafica: "Guida indipendente, non affiliata a HYROX."
 - Prezzo sempre vero: 19 € fino al 5 novembre 2026, poi 27 €. Mai sconti o scadenze inventate.
+- Prezzo negli organici: SOLO nel post chiaro della domenica (commerciale) e in una riga in fondo alle didascalie.
+  MAI nelle grafiche di reel, caroselli e post scuri (niente "27 €" nell'ultima schermata o slide): lì si intrattiene e si dà valore.
+  Ultima slide dei caroselli: "Link in bio." al posto del prezzo. Ultima schermata dei reel: solo campo CHECKLIST e invito, senza "prezzo".
 - Numeri solo con fonte (59% della gara è corsa: Frontiers in Physiology, 2025).
 - Stile scuro per reel, caroselli e post del profilo; stile chiaro (sabbia) solo per post tipo inserzione.
 
@@ -37,7 +40,7 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
    diverso tra carica, energia, grinta, epica, ritmo e, se devi ripeterne uno, cambia tonalità (TRASP) e SEED.
 6. L'attacco della musica cade ESATTAMENTE quando finisce la dissolvenza dell'intro e compare la prima schermata
    (1,25 s nei reel creati con reel.py). Verificalo sul file finale: non deve sembrare in ritardo.
-7. Ultima schermata: "La checklist del giorno gara" con il campo commento "CHECKLIST" e "Scrivi CHECKLIST nei commenti".
+7. Ultima schermata: "La checklist del giorno gara" con il campo commento "CHECKLIST" e "Scrivi CHECKLIST nei commenti" (senza prezzo).
 
 ## Come si creano i contenuti
 ```
