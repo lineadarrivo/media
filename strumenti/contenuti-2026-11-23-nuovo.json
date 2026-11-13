@@ -1,0 +1,213 @@
+{
+ "contenuti": [
+  {
+   "id": "2026-11-23-carosello-settimana-prima-gara",
+   "tipo": "carosello",
+   "pilastro": "informativo",
+   "data": "2026-11-23",
+   "ora": "18:30",
+   "titolo": "La settimana prima del tuo primo HYROX",
+   "slide": [
+    {
+     "etichetta": "Gara vicina?",
+     "titolo": "La settimana <em>prima della gara.</em>",
+     "testo": "Hai paura di stancarti troppo, o di non fare abbastanza? Negli ultimi giorni non si recupera il tempo perso: si arriva freschi.",
+     "chiusura": "Salvalo per la tua settimana gara."
+    },
+    {
+     "etichetta": "Inizio settimana",
+     "titolo": "Allenati, <em>ma meno.</em>",
+     "testo": "Fai gli allenamenti di sempre, ma più corti. Il corpo resta attivo e intanto recupera la fatica delle settimane prima."
+    },
+    {
+     "etichetta": "Metà settimana",
+     "titolo": "Ripassa il <em>ritmo gara.</em>",
+     "testo": "Qualche tratto di corsa al ritmo che terrai in gara, poi basta. Niente prove al massimo e niente esercizi nuovi."
+    },
+    {
+     "etichetta": "Il giorno prima",
+     "titolo": "Prepara <em>tutto.</em>",
+     "lista": [
+      "Scarpe e vestiti già provati in allenamento",
+      "Documento e conferma dell'iscrizione",
+      "Acqua e uno spuntino per dopo la gara",
+      "A letto presto"
+     ]
+    },
+    {
+     "etichetta": "La mattina",
+     "titolo": "Una colazione <em>che conosci.</em>",
+     "testo": "Mangia qualcosa che hai già provato prima degli allenamenti, qualche ora prima della partenza. Il giorno gara non è il giorno per sperimentare."
+    },
+    {
+     "etichetta": "Il piano completo",
+     "titolo": "Arriva <em>pronto.</em>",
+     "testo": "In Primo Traguardo trovi il piano fino alla gara, il ritmo gara calcolato sul tuo tempo obiettivo e la checklist del giorno gara.",
+     "chiusura": "Guida + app · 27 €"
+    }
+   ],
+   "didascalia": "La gara si avvicina e non sai se allenarti di più o riposare? 🗓️\nNella settimana prima allenati come sempre ma meno, ripassa il ritmo gara e il giorno prima prepara tutto con calma. Si arriva freschi, non stanchi.\nSalvalo e riaprilo quando sarà la tua settimana gara.\n\nPrimo Traguardo: guida + app a 27 €, con la checklist del giorno gara. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-24-reel-capisci-solo-se-prepari",
+   "tipo": "reel",
+   "pilastro": "intrattenimento",
+   "voce": false,
+   "musica": "epica",
+   "trasp": -2,
+   "seed": 79,
+   "data": "2026-11-24",
+   "ora": "18:30",
+   "titolo": "Cose che capisci solo se prepari HYROX",
+   "scene": [
+    {
+     "etichetta": "Solo tu",
+     "titolo": "Cose che capisci solo se prepari <em>HYROX.</em>",
+     "rivela": {
+      "testo": "Quante ne fai anche tu?"
+     }
+    },
+    {
+     "etichetta": "Il sabato sera",
+     "titolo": "A letto presto <em>per allenarti.</em>",
+     "rivela": {
+      "testo": "Gli amici ormai non ti chiedono più di uscire."
+     }
+    },
+    {
+     "etichetta": "Gli acquisti",
+     "titolo": "Hai comprato una <em>palla medica.</em>",
+     "rivela": {
+      "testo": "E ora vive in salotto."
+     }
+    },
+    {
+     "etichetta": "Le scale",
+     "titolo": "Fai le scale <em>in affondo.</em>",
+     "rivela": {
+      "testo": "Senza neanche accorgertene."
+     }
+    },
+    {
+     "etichetta": "Il calendario",
+     "titolo": "Conti le settimane <em>alla gara.</em>",
+     "rivela": {
+      "testo": "E ogni volta sale un po' di emozione."
+     }
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     }
+    }
+   ],
+   "didascalia": "A letto presto il sabato, una palla medica in salotto e le scale fatte in affondo: quante ne fai anche tu? 😄\nScrivi nei commenti quella che ti manca e tagga chi si allena con te.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-25-post-burpee-salti-corti",
+   "tipo": "post",
+   "pilastro": "informativo",
+   "data": "2026-11-25",
+   "ora": "18:30",
+   "titolo": "Burpee Broad Jump: salti più corti",
+   "etichetta": "Primo HYROX",
+   "titolo_grafica": "x",
+   "slide": [
+    {
+     "etichetta": "Burpee Broad Jump",
+     "titolo": "Salti più corti, <em>gambe più fresche.</em>",
+     "testo": "Non cercare il salto più lungo che riesci: ti svuota le gambe per la corsa dopo. Fai salti medi e sempre uguali, e respira quando sei in piedi. Provalo in allenamento su 20 metri.",
+     "chiusura": "Salvalo."
+    }
+   ],
+   "didascalia": "Ai Burpee Broad Jump ti butti in avanti con tutta la forza e poi la corsa dopo è un incubo? 🐸\nFai salti medi e sempre uguali e prendi fiato quando sei in piedi: arrivi in fondo con le gambe ancora buone. Provalo al prossimo allenamento su 20 metri.\nSalvalo.\n\nPrimo Traguardo: guida + app a 27 €, con le 8 stazioni spiegate. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-27-reel-non-deve-essere-perfetto",
+   "tipo": "reel",
+   "pilastro": "identitario",
+   "voce": true,
+   "musica": "carica",
+   "trasp": -3,
+   "seed": 83,
+   "data": "2026-11-27",
+   "ora": "18:30",
+   "titolo": "Il primo HYROX non deve essere perfetto (con voce)",
+   "scene": [
+    {
+     "etichetta": "Il dubbio",
+     "titolo": "Hai paura di <em>sbagliare?</em>",
+     "rivela": {
+      "testo": "Il primo HYROX non deve essere perfetto."
+     },
+     "voce": "Hai paura di sbagliare? Il primo Hyrox non deve essere perfetto."
+    },
+    {
+     "etichetta": "In cosa crediamo",
+     "titolo": "Conta <em>esserci.</em>",
+     "rivela": {
+      "testo": "Partire, faticare, arrivare in fondo."
+     },
+     "voce": "Conta esserci. Partire, faticare, arrivare in fondo."
+    },
+    {
+     "etichetta": "Il fatto",
+     "titolo": "Tutti hanno avuto <em>una prima gara.</em>",
+     "rivela": {
+      "testo": "Anche chi oggi va fortissimo."
+     },
+     "voce": "Tutti hanno avuto una prima gara. Anche chi oggi va fortissimo."
+    },
+    {
+     "etichetta": "La soluzione",
+     "titolo": "Preparati <em>con calma.</em>",
+     "rivela": {
+      "testo": "Un piano semplice, una settimana alla volta."
+     },
+     "voce": "Preparati con calma. Un piano semplice, una settimana alla volta."
+    },
+    {
+     "etichetta": "Il traguardo",
+     "titolo": "Poi goditi <em>l'arrivo.</em>",
+     "rivela": {
+      "testo": "Te lo sarai meritato."
+     },
+     "voce": "Poi goditi l'arrivo. Te lo sarai meritato."
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     },
+     "voce": "La checklist del giorno gara. Scrivi checklist nei commenti."
+    }
+   ],
+   "didascalia": "Hai paura di sbagliare qualcosa al tuo primo HYROX? 🏁\nLa prima gara non deve essere perfetta: conta esserci, faticare e arrivare in fondo. Tutti hanno avuto una prima volta.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-29-post-tutto-in-app",
+   "tipo": "post",
+   "pilastro": "commerciale",
+   "stile": "chiaro",
+   "data": "2026-11-29",
+   "ora": "10:00",
+   "titolo": "Tutto in una sola app (27 €)",
+   "titolo_grafica": "Tutto<br>in una<br><em>sola app.</em>",
+   "testo": "Il test ti dice da dove partire, il piano (12 settimane o Express da 6) cosa fare ogni giorno. Più la guida PDF con le 8 stazioni.",
+   "bollo": {
+    "sopra": "GUIDA + APP",
+    "grande": "27 €",
+    "sotto": "SUBITO TUA"
+   },
+   "barra": "Primo Traguardo – 27 €",
+   "didascalia": "Un'app per il timer, un foglio per il piano, una calcolatrice per il ritmo? 📱\nIn Primo Traguardo è tutto in un posto: fai il test iniziale, segui il piano di 12 settimane o l'Express da 6, calcoli il ritmo gara e ti alleni con il timer. In più la guida PDF con le 8 stazioni e le alternative.\nGuida + app a 27 €, la ricevi subito dopo l'acquisto.\n\nLink in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ]
+}

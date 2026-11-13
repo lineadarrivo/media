@@ -56,5 +56,33 @@
   "stile": "epica",
   "trasp": 0,
   "seed": 61
+ },
+ {
+  "data": "2026-11-17",
+  "id": "2026-11-17-reel-dici-che-fai-hyrox",
+  "stile": "ritmo",
+  "trasp": 0,
+  "seed": 71
+ },
+ {
+  "data": "2026-11-20",
+  "id": "2026-11-20-reel-abbastanza-in-forma",
+  "stile": "grinta",
+  "trasp": 2,
+  "seed": 73
+ },
+ {
+  "data": "2026-11-24",
+  "id": "2026-11-24-reel-capisci-solo-se-prepari",
+  "stile": "epica",
+  "trasp": -2,
+  "seed": 79
+ },
+ {
+  "data": "2026-11-27",
+  "id": "2026-11-27-reel-non-deve-essere-perfetto",
+  "stile": "carica",
+  "trasp": -3,
+  "seed": 83
  }
 ]

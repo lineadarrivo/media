@@ -1,0 +1,224 @@
+{
+ "contenuti": [
+  {
+   "id": "2026-11-16-carosello-8-stazioni-da-zero",
+   "tipo": "carosello",
+   "pilastro": "informativo",
+   "data": "2026-11-16",
+   "ora": "18:30",
+   "titolo": "Le 8 stazioni spiegate a chi parte da zero",
+   "slide": [
+    {
+     "etichetta": "Parti da zero?",
+     "titolo": "Le 8 stazioni, <em>spiegate semplici.</em>",
+     "testo": "Hai paura di arrivare in gara senza sapere cosa ti aspetta? In HYROX corri 8 volte 1 km e dopo ogni km fai una stazione. Eccole.",
+     "chiusura": "Salvalo per il prossimo allenamento."
+    },
+    {
+     "etichetta": "Stazioni 1 e 2",
+     "titolo": "SkiErg e <em>Sled Push.</em>",
+     "lista": [
+      "SkiErg 1000 m: tiri due maniglie dall'alto verso il basso",
+      "Sled Push 50 m: spingi una slitta carica",
+      "In palestra: vogatore al posto dello SkiErg, affondi al posto della slitta"
+     ]
+    },
+    {
+     "etichetta": "Stazioni 3 e 4",
+     "titolo": "Sled Pull e <em>Burpee Broad Jump.</em>",
+     "lista": [
+      "Sled Pull 50 m: tiri la slitta verso di te con una corda",
+      "Burpee Broad Jump 80 m: un burpee, poi un salto in avanti a piedi uniti",
+      "In palestra: rematore con manubri al posto della slitta"
+     ]
+    },
+    {
+     "etichetta": "Stazioni 5 e 6",
+     "titolo": "Rowing e <em>Farmers Carry.</em>",
+     "lista": [
+      "Rowing 1000 m: il vogatore, la spinta parte dalle gambe",
+      "Farmers Carry 200 m: cammini con un peso in ogni mano",
+      "In palestra: bastano due manubri o due kettlebell"
+     ]
+    },
+    {
+     "etichetta": "Stazioni 7 e 8",
+     "titolo": "Sandbag Lunges e <em>Wall Balls.</em>",
+     "lista": [
+      "Sandbag Lunges 100 m: affondi con un sacco sulle spalle",
+      "Wall Balls 100: uno squat e lanci la palla contro un bersaglio",
+      "In palestra: uno zaino con dei pesi al posto del sacco"
+     ]
+    },
+    {
+     "etichetta": "Il piano completo",
+     "titolo": "Ogni stazione, <em>passo dopo passo.</em>",
+     "testo": "In Primo Traguardo trovi le 8 stazioni spiegate una per una, con le alternative per la palestra normale e il piano di allenamento nell'app.",
+     "chiusura": "Guida + app · 27 €"
+    }
+   ],
+   "didascalia": "Prima gara HYROX e non sai ancora cosa sono le 8 stazioni? 🏋️\nTe le spieghiamo semplici, due per slide, con l'alternativa da fare in una palestra normale.\nSalvalo e mandalo a chi deve fare la prima gara con te.\n\nPrimo Traguardo: guida + app a 27 €, con tutte le stazioni spiegate. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-17-reel-dici-che-fai-hyrox",
+   "tipo": "reel",
+   "pilastro": "intrattenimento",
+   "voce": false,
+   "musica": "ritmo",
+   "trasp": 0,
+   "seed": 71,
+   "data": "2026-11-17",
+   "ora": "18:30",
+   "titolo": "Quando dici agli amici che fai HYROX",
+   "scene": [
+    {
+     "etichetta": "Ti riconosci?",
+     "titolo": "Quando dici agli amici che fai <em>HYROX.</em>",
+     "rivela": {
+      "testo": "E nessuno capisce cos'è."
+     }
+    },
+    {
+     "etichetta": "L'amico",
+     "titolo": "“Ah, tipo <em>CrossFit?</em>”",
+     "rivela": {
+      "testo": "No. Corri 8 km e in mezzo fai 8 stazioni."
+     }
+    },
+    {
+     "etichetta": "La mamma",
+     "titolo": "“Ma almeno <em>ti pagano?</em>”",
+     "rivela": {
+      "testo": "No. Anzi, paghi tu per faticare."
+     }
+    },
+    {
+     "etichetta": "Il collega",
+     "titolo": "“E cosa <em>vinci?</em>”",
+     "rivela": {
+      "testo": "Niente. Lo scopo è arrivare al traguardo."
+     }
+    },
+    {
+     "etichetta": "Tu, dentro di te",
+     "titolo": "Non vedo l'ora <em>di partire.</em>",
+     "rivela": {
+      "testo": "E di raccontarglielo dopo."
+     }
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     }
+    }
+   ],
+   "didascalia": "“Tipo CrossFit?” “Ma ti pagano?” “E cosa vinci?” 😅\nQual è la domanda che ti fanno di più quando dici che fai HYROX? Scrivila nei commenti e tagga chi ti fa sempre la stessa.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-18-post-primo-km-piano",
+   "tipo": "post",
+   "pilastro": "informativo",
+   "data": "2026-11-18",
+   "ora": "18:30",
+   "titolo": "Il primo km? Più piano",
+   "etichetta": "Primo HYROX",
+   "titolo_grafica": "x",
+   "slide": [
+    {
+     "etichetta": "Parti troppo forte?",
+     "titolo": "Il primo km? <em>Più piano.</em>",
+     "testo": "Con il pubblico e l'adrenalina è facile partire forte e pagarlo alle stazioni. Corri il primo km a un ritmo in cui riesci a dire una frase intera. Se ti senti bene, accelera dopo metà gara.",
+     "chiusura": "Salvalo."
+    }
+   ],
+   "didascalia": "Al via parti a tutta e al secondo km hai già il fiato corto? 🏃\nIl primo km corrilo a un ritmo in cui riesci a dire una frase intera: le gambe ti servono per le stazioni. Se ti senti bene, accelera dopo metà gara.\nSalvalo e ricordatelo al via.\n\nPrimo Traguardo: guida + app a 27 €, con il ritmo gara calcolato sul tuo tempo obiettivo. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-20-reel-abbastanza-in-forma",
+   "tipo": "reel",
+   "pilastro": "identitario",
+   "voce": true,
+   "musica": "grinta",
+   "trasp": 2,
+   "seed": 73,
+   "data": "2026-11-20",
+   "ora": "18:30",
+   "titolo": "Pensi di non essere abbastanza in forma? (con voce)",
+   "scene": [
+    {
+     "etichetta": "Il dubbio",
+     "titolo": "Pensi di non essere <em>abbastanza in forma?</em>",
+     "rivela": {
+      "testo": "È un dubbio normale."
+     },
+     "voce": "Pensi di non essere abbastanza in forma? È un dubbio normale."
+    },
+    {
+     "etichetta": "In cosa crediamo",
+     "titolo": "Non devi <em>vincere.</em>",
+     "rivela": {
+      "testo": "Devi arrivare al traguardo."
+     },
+     "voce": "Non devi vincere. Devi arrivare al traguardo."
+    },
+    {
+     "etichetta": "Il fatto",
+     "titolo": "Puoi anche <em>camminare.</em>",
+     "rivela": {
+      "testo": "Nessuno ti obbliga a correre sempre. Conta finire."
+     },
+     "voce": "Puoi anche camminare. Nessuno ti obbliga a correre sempre. Conta finire."
+    },
+    {
+     "etichetta": "La soluzione",
+     "titolo": "Parti da <em>dove sei.</em>",
+     "rivela": {
+      "testo": "Un test iniziale, poi un allenamento alla volta."
+     },
+     "voce": "Parti da dove sei. Un test iniziale, poi un allenamento alla volta."
+    },
+    {
+     "etichetta": "Il piano",
+     "titolo": "Ogni giorno sai <em>cosa fare.</em>",
+     "rivela": {
+      "testo": "Lo apri nel telefono e lo spunti."
+     },
+     "voce": "Ogni giorno sai cosa fare. Lo apri nel telefono e lo spunti."
+    },
+    {
+     "etichetta": "Gratis",
+     "titolo": "La checklist del <em>giorno gara.</em>",
+     "rivela": {
+      "campo": "CHECKLIST",
+      "invito": "Scrivi CHECKLIST nei commenti",
+      "prezzo": "Primo Traguardo · 27 €"
+     },
+     "voce": "La checklist del giorno gara. Scrivi checklist nei commenti."
+    }
+   ],
+   "didascalia": "Pensi di non essere abbastanza in forma per il primo HYROX? 💪\nAl primo HYROX non devi vincere: devi arrivare al traguardo, e puoi anche camminare. Parti da dove sei, un allenamento alla volta.\n\nScrivi CHECKLIST nei commenti e ti mando la checklist del giorno gara.\n\nPrimo Traguardo: guida + app a 27 €. Link in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  },
+  {
+   "id": "2026-11-22-post-piano-non-a-caso",
+   "tipo": "post",
+   "pilastro": "commerciale",
+   "stile": "chiaro",
+   "data": "2026-11-22",
+   "ora": "10:00",
+   "titolo": "Basta allenarsi a caso (27 €)",
+   "titolo_grafica": "Basta<br>allenarsi<br><em>a caso.</em>",
+   "testo": "Nell'app: test iniziale, allenamento di oggi da spuntare, timer e ritmo gara. Nella guida PDF: le 8 stazioni con le alternative.",
+   "bollo": {
+    "sopra": "GUIDA + APP",
+    "grande": "27 €",
+    "sotto": "SUBITO TUA"
+   },
+   "barra": "Primo Traguardo – 27 €",
+   "didascalia": "Vai in palestra e improvvisi ogni volta? 📱\nCon Primo Traguardo apri l'app e trovi l'allenamento di oggi, dopo un test iniziale che ti dice da dove partire. Dentro ci sono anche il timer e il ritmo gara, e nella guida PDF le 8 stazioni con le alternative per la palestra normale.\nGuida + app a 27 €, la ricevi subito dopo l'acquisto.\n\nLink in bio.\n\nGuida indipendente, non affiliata a HYROX."
+  }
+ ]
+}
