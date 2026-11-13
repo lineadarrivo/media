@@ -24,7 +24,8 @@ Pagina di approvazione (database "contenuti"): https://claude.ai/artifact/9RzNXL
 - Tono: motivazionale e pratico. Prima la paura o il dubbio, poi un fatto e una soluzione concreta. Si dà del tu.
 - In fondo a ogni grafica: "Guida indipendente, non affiliata a HYROX."
 - Prezzo sempre vero: 19 € fino al 5 novembre 2026, poi 27 €. Mai sconti o scadenze inventate.
-- Prezzo negli organici: SOLO nel post chiaro della domenica (commerciale) e in una riga in fondo alle didascalie.
+- Prezzo negli organici: SOLO nel post chiaro della domenica (commerciale), nella grafica e nella sua didascalia.
+  Nelle didascalie di reel, caroselli e post scuri niente prezzo: chiudere con "Primo Traguardo: il piano per il tuo primo HYROX. Link in bio."
   MAI nelle grafiche di reel, caroselli e post scuri (niente "27 €" nell'ultima schermata o slide): lì si intrattiene e si dà valore.
   Ultima slide dei caroselli: "Link in bio." al posto del prezzo. Ultima schermata dei reel: solo campo CHECKLIST e invito, senza "prezzo".
 - Numeri solo con fonte (59% della gara è corsa: Frontiers in Physiology, 2025).
