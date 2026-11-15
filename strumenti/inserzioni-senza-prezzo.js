@@ -1,5 +1,5 @@
 // Inserzioni "nuova campagna senza prezzo" (13/11/2026): 5 angoli, senza prezzo, date, gare o città.
-// Formati: 1080x1080 e 1080x1920 (zone libere: 270 px in alto, 430 px in basso). Caroselli 1080x1080 per gli angoli 3 e 4.
+// Formati: 1080x1080 e 1080x1920. Nel verticale tutto il contenuto sta tra 275 e 1240 px (zone libere Meta: 14% in alto, 35% in basso per i Reel, margini laterali per le icone). Caroselli 1080x1080 per gli angoli 3 e 4.
 // Uso: node inserzioni-senza-prezzo.js cartella_uscita
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
@@ -187,7 +187,7 @@ ${phone(IMG.piano, 640, 150, 320, 5)}<div class="cta" style="left:60px;top:720px
   };
   const only = process.argv[3];
   for (const a of ADS) { if (only && !a.id.includes(only)) continue;
-    await shot(1080, 1080, a.q(), `${a.id}-1080x1080.png`); await shot(1080, 1920, a.v(270), `${a.id}-1080x1920.png`); }
+    await shot(1080, 1080, a.q(), `${a.id}-1080x1080.png`); await shot(1080, 1920, `<div class="abs" style="inset:0;transform:scale(.825);transform-origin:540px 157px">${a.v(270)}</div>`, `${a.id}-1080x1920.png`); }
   for (const c of CAR) { if (only && !c.id.includes(only)) continue;
     for (let i = 0; i < c.slides.length; i++) await shot(1080, 1080, c.slides[i](i + 1, c.slides.length), `${c.id}-carosello-${i + 1}-1080x1080.png`); }
   await b.close(); console.log('ok', out);
